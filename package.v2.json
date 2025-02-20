@@ -17,6 +17,17 @@
             "v1.0": "MoviePilot V2 版本站点数据统计插件"
         }
     },
+    "CustomJackett": {
+        "name": "Jackett c聚合",
+        "description": "Jackett 聚合索引器，测试",
+        "version": "0.2.5",
+        "icon": "Jackett_A.png",
+        "color": "#000000",
+        "author": "junyuyuan,Ray,qiruizhng",
+        "level": 1,
+        "history": {
+        }
+    },
     "BrushFlow": {
         "name": "站点刷流",
         "description": "自动托管刷流，将会提高对应站点的访问频率。",
